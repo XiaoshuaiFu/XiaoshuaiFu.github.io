@@ -1,5 +1,5 @@
 ---
-layout： post
+layout: post
 title: My first post
 author: Xiaoshuai Fu
 tags:
